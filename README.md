@@ -6,4 +6,4 @@
 
 ## 2_LinearRegression
 
-- Tensorflow를 이용한 LinearRegression
+- Tensorflow로 LinearRegression 구현 예제
