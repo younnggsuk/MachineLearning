@@ -6,8 +6,8 @@
 
 - Multi-variable Linear Regression 예제
 
-  - H = XW + b ( X : 5 _ 3 행렬, W : 3 _ 1 행렬 )
-  - H = x1*w1 + x2*w2 + x3\*w3 + b
+  - H = XW + b ( X : 5 * 3 행렬, W : 3 * 1 행렬 )
+  - H = x1w1 + x2w2 + x3w3 + b
   - 3개의 feature에 따른 결과 Data set을 Linear Regression에 적용
   - feature(x항)가 많아질 수록 코드가 복잡해짐
 
