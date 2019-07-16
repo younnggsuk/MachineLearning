@@ -11,7 +11,7 @@
 ## 3_CostMinimization
 
 - LinearRegression에서 사용되는 CostMinimization Algorithm 구현
-- Gradient Descent Algorithm 적용
+- Gradient Descent Algorithm
 
 ## 4_Multi-variable Linear Regression
 
