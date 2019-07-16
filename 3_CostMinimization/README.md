@@ -1,4 +1,4 @@
-# 1. Tensorflow Basic
+# 3. Cost Minimization
 
 ## Source code
 
