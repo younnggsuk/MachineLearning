@@ -13,7 +13,7 @@
 - LinearRegression에서 사용되는 CostMinimization Algorithm 구현
 - Gradient Descent Algorithm
 
-## 4_Multi-variable Linear Regression
+## 4_Multi-variableLinearRegression
 
 - Multi-variable에서 Linear Regression 예제
 - 파일로부터 데이터 읽기
