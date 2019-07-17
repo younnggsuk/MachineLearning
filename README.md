@@ -20,4 +20,5 @@
 ## 5_LogisticRegression
 
 - Binary Classification에 사용되는 Logistic Regression 예제
+- 실제 데이터의 적용
 
