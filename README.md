@@ -10,12 +10,14 @@
 
 ## 3_CostMinimization
 
-- Gradient Descent Algorithm을 이용한 Cost Minimization
+- Cost Minimization 예제
+- Gradient Descent Algorithm 이용
 
 ## 4_Multi-variableLinearRegression
 
 - Multi-variable에서의 Linear Regression 예제
-- Tensorflow에서 파일로부터 데이터 읽기
+- Matrix의 곱셈을 이용
+- Tensorflow에서 파일로부터 데이터 읽어들이기 예제
 
 ## 5_LogisticRegression
 
