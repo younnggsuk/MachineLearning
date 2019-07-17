@@ -16,3 +16,7 @@
 
 - Multi-variable에서의 Linear Regression 예제
 - 파일로부터 데이터 읽기
+
+## 5_LogisticRegression
+
+- Binary Classification에 사용되는 Logistic Regression 예제
