@@ -27,6 +27,6 @@
 
 ## 6_MultinomialLogisticRegression
 
-- Binary가 아닌 경우의 Classification에 사용되는 Logistic Regression 예제
+- Binary가 아닌 경우의 Classification에 사용되는 Multinomial Logistic Regression 예제
 - Hypothesis에 Sigmoid Function 이용
 - Cost Function에 Cross-Entropy 이용
