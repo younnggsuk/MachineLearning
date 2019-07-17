@@ -15,4 +15,5 @@
 
 - Logistic Regression 적용
   - 당뇨 데이터를 Logistic Regression에 적용
-  - numpy의 loadtxt() 사용
+  - numpy의 loadtxt()로 파일에서 데이터 읽기
+  
