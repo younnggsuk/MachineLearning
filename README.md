@@ -22,5 +22,6 @@
 ## 5_LogisticRegression
 
 - Binary Classification에 사용되는 Logistic Regression 예제
-- Sigmoid Function 이용
+- Hypothesis에 Sigmoid Function 이용
+- Cost Function에 Log Function 이용
 
