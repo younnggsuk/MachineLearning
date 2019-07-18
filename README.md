@@ -30,3 +30,12 @@
 - Binary가 아닌 경우의 Classification에 사용되는 Multinomial Logistic Regression 예제
 - Hypothesis에 Sigmoid Function 이용
 - Cost Function에 Cross-Entropy 이용
+
+## 7_MachineLearningPracticeAndSomeTips
+
+- Training data & Test data
+- Learning Rate
+- Data PreProcessing
+- Overfitting
+- Epoch, Batch, Iteration
+- Mnist Example
