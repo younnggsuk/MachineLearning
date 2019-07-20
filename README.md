@@ -39,3 +39,7 @@
 - Overfitting
 - Epoch, Batch, Iteration
 - Mnist Example
+
+## 8_TensorManipulation
+
+- Tensor 조작 함수 예제
