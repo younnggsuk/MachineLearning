@@ -32,8 +32,10 @@
 - tensorboard 사용 예제
   - tensorboard 사용 순서
     - log할 텐서 설정
-      - scalar : tf.summary_scalar("Cost", cost)
-      - non-scalar : tf.summary_histogram("Hypothesis", h)
+      - scalar
+        - tf.summary_scalar("Cost", cost)
+      - non-scalar
+        - tf.summary_histogram("Hypothesis", h)
     - summary 합치기
       - merged_summary = tf.summary.merge_all()
     - writer 생성 및 graph 추가
