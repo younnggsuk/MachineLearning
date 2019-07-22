@@ -31,15 +31,15 @@
 
 - tensorboard 사용 예제
   - tensorboard 사용 순서
-    - Logging
-      1. log할 텐서 설정
-         <br>scalar : tf.summary_scalar("Cost", cost)<br>non-scalar : tf.summary_histogram("Hypothesis", h)
-      2. summary 합치기
-         <br>merged_summary = tf.summary.merge_all()
-      3. writer 생성 및 graph 추가
-         <br>writer = tf.summary.FileWriter("./logs/log1")
-         <br>writer.add_graph(sess.graph)
-      4. sess.run()으로 합친 summary 실행
-         <br>summaryVal = sess.run(summary, feed_dict={x: xData, y: yData})
+    - log할 텐서 설정
+      - scalar : tf.summary_scalar("Cost", cost)
+      - non-scalar : tf.summary_histogram("Hypothesis", h)
+    - summary 합치기
+      - merged_summary = tf.summary.merge_all()
+    - writer 생성 및 graph 추가
+      - writer = tf.summary.FileWriter("./logs/log1")
+      - writer.add_graph(sess.graph)
+    - sess.run()으로 합친 summary 실행
+      - summaryVal = sess.run(summary, feed_dict={x: xData, y: yData})
     - tensorboard 실행
-      <br>\$ tensorboard --logidr=./logs/log1
+      - \$ tensorboard --logidr=./logs/log1
