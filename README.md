@@ -43,3 +43,10 @@
 ## 8_TensorManipulation
 
 - Tensor 조작 함수 예제
+
+## 9_NeuralNetForXOR
+
+- XOR Problem
+- Neural Network
+- Tensorboard 
+
