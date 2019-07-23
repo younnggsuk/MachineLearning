@@ -44,9 +44,9 @@
 
 - Tensor 조작 함수 예제
 
-## 9_NeuralNetForXOR
+## 9_NeuralNetwork1
 
-- XOR Problem
 - Neural Network
+- XOR Problem
 - Tensorboard 
 
