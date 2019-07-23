@@ -50,3 +50,9 @@
 - XOR Problem
 - Tensorboard 
 
+## 10_NeuralNetwork2
+
+- ReLU Activation Function
+- Xavier Initialization
+- Dropout
+- Mnist Example using Neural Network
