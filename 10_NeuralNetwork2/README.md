@@ -26,7 +26,7 @@
 
 ## Source code
 
-### Adam optimizer
+### Adam optimizer 사용
 
 ### mnist_softmax.py
 
