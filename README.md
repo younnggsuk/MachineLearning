@@ -56,3 +56,8 @@
 - Xavier Initialization
 - Dropout
 - Mnist Example using Neural Network
+
+# 11_CNN
+
+- Convolutional Neural Network
+- Mnist Example using CNN
