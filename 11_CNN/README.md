@@ -33,16 +33,9 @@
 
 - 손글씨 학습 예제 1
   - Mnist에 CNN 적용
-  - Convolutional Layer1
-  	- 3*3, 32 channels
-	- relu
-	- pooling : 28*28 -> 14*14
-  - Convolutional Layer2
-  	- 3*3, 64 channels
-	- relu
-	- pooling : 14*14 -> 7*7
-  - Fully-connected Layer3
-	- 7*7*64 -> 10
+  - Convolutional Layer1 - 3*3, 32 channels - relu - pooling : 28*28 -> 14\*14
+  - Convolutional Layer2 - 3*3, 64 channels - relu - pooling : 14*14 -> 7\*7
+  - Fully-connected Layer3 - 7*7*64 -> 10
   - Accuracy : 0.98
 
 ### mnist_cnn_deep_dropout.py
@@ -50,27 +43,27 @@
 - 손글씨 학습 예제 2
   - Mnist에 더 깊은 CNN, Dropout 적용
   - Convolutional Layer1
-  	- 3*3, 32 channels
+  	- 3\*3, 32 channels
 	- relu
-	- pooling : 28*28 -> 14*14
+	- pooling : 28\*28 -> 14\*14
 	- dropout : 0.7
   - Convolutional Layer2
-  	- 3*3, 64 channels
-	- relu
-	- pooling : 14*14 -> 7*7
-	- dropout : 0.7
+  	- 3\*3, 64 channels
+  	- relu
+  	- pooling : 14\*14 -> 7\*7
+  	- dropout : 0.7
   - Convolutional Layer3
-  	- 3*3, 128 channels
-	- relu
-	- pooling : 7*7 -> 4*4
-	- dropout : 0.7
+  	- 3\*3, 128 channels
+  	- relu
+  	- pooling : 7\*7 -> 4\*4
+  	- dropout : 0.7
   - Fully-connected Layer4
-	- relu
-	- 4*4*128 -> 625
+  	- relu
+	- 4\*4\*128 -> 625
 	- dropout : 0.7
   - Fully-connected Layer5
   	- 625 -> 10
-  - Accuracy : 0.99
+  	- Accuracy : 0.99
 
 ### mnist_class_layers_ensemble.py
 
