@@ -9,7 +9,8 @@ image = np.array([[[[4], [3]],
 
 # Max pooling
 pool = tf.nn.max_pool(image, ksize=[1, 2, 2, 1],
-                      strides=[1, 1, 1, 1], padding='SAME')
+                      strides=[1, 2, 2, 1], padding='SAME')
 
+print(image.shape)
 print(pool.shape)
 print(pool.eval())
